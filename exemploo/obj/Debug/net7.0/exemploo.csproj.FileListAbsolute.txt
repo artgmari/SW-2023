@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\exemploo\bin\Debug\net7.0\exemploo.exe
+C:\Users\LAB4\Desktop\exemploo\bin\Debug\net7.0\exemploo.deps.json
+C:\Users\LAB4\Desktop\exemploo\bin\Debug\net7.0\exemploo.runtimeconfig.json
+C:\Users\LAB4\Desktop\exemploo\bin\Debug\net7.0\exemploo.dll
+C:\Users\LAB4\Desktop\exemploo\bin\Debug\net7.0\exemploo.pdb
+C:\Users\LAB4\Desktop\exemploo\obj\Debug\net7.0\exemploo.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\exemploo\obj\Debug\net7.0\exemploo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\exemploo\obj\Debug\net7.0\exemploo.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\exemploo\obj\Debug\net7.0\exemploo.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\exemploo\obj\Debug\net7.0\exemploo.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\exemploo\obj\Debug\net7.0\exemploo.dll
+C:\Users\LAB4\Desktop\exemploo\obj\Debug\net7.0\refint\exemploo.dll
+C:\Users\LAB4\Desktop\exemploo\obj\Debug\net7.0\exemploo.pdb
+C:\Users\LAB4\Desktop\exemploo\obj\Debug\net7.0\exemploo.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\exemploo\obj\Debug\net7.0\ref\exemploo.dll
