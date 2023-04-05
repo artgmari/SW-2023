@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\ExercicioAlunoMedia\bin\Debug\net7.0\ExercicioAlunoMedia.exe
+C:\Users\LAB4\Desktop\ExercicioAlunoMedia\bin\Debug\net7.0\ExercicioAlunoMedia.deps.json
+C:\Users\LAB4\Desktop\ExercicioAlunoMedia\bin\Debug\net7.0\ExercicioAlunoMedia.runtimeconfig.json
+C:\Users\LAB4\Desktop\ExercicioAlunoMedia\bin\Debug\net7.0\ExercicioAlunoMedia.dll
+C:\Users\LAB4\Desktop\ExercicioAlunoMedia\bin\Debug\net7.0\ExercicioAlunoMedia.pdb
+C:\Users\LAB4\Desktop\ExercicioAlunoMedia\obj\Debug\net7.0\ExercicioAlunoMedia.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\ExercicioAlunoMedia\obj\Debug\net7.0\ExercicioAlunoMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\ExercicioAlunoMedia\obj\Debug\net7.0\ExercicioAlunoMedia.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\ExercicioAlunoMedia\obj\Debug\net7.0\ExercicioAlunoMedia.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\ExercicioAlunoMedia\obj\Debug\net7.0\ExercicioAlunoMedia.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\ExercicioAlunoMedia\obj\Debug\net7.0\ExercicioAlunoMedia.dll
+C:\Users\LAB4\Desktop\ExercicioAlunoMedia\obj\Debug\net7.0\refint\ExercicioAlunoMedia.dll
+C:\Users\LAB4\Desktop\ExercicioAlunoMedia\obj\Debug\net7.0\ExercicioAlunoMedia.pdb
+C:\Users\LAB4\Desktop\ExercicioAlunoMedia\obj\Debug\net7.0\ExercicioAlunoMedia.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\ExercicioAlunoMedia\obj\Debug\net7.0\ref\ExercicioAlunoMedia.dll
